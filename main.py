@@ -21,6 +21,20 @@
 # x=len(slownik3)
 # print(x)
 # zad4
+# liczba=input("Podaj liczbe")
+# liczba=int(liczba)
+# liczba*=liczba
+# print(liczba)
+# zad5
+# import sys as system
+# system.stdout.write("Wpisz dowolny komunikat: \n")
+# napis=system.stdin.readline()
+# print(type(napis))
+# system.stdout.write(napis)
+# x=napis.count("a")
+# print(x)
+# zad6
+
 
 
 
