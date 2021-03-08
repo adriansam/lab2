@@ -34,7 +34,42 @@
 # x=napis.count("a")
 # print(x)
 # zad6
-
+# a=input("Podaj a: \n")
+# a=int(a)
+# b=input("Podaj b: \n")
+# b=int(b)
+# c=input("Podaj c: \n")
+# c=int(c)
+# if (a%2==0) & (b>c):
+#     print("liczba "+str(a)+" jest parzysta oraz jednoczescie "+str(b)+" jest wieksze od "+str(c))
+# else:
+#     print("liczby sie nie zgadzaja")
+# zad7
+# lista=[1,2.5,3,4.5,5,6.5,7,8.5]
+# for i in range(1,len(lista),1):
+#     print(lista[i]+lista[i-1])
+# zad8
+# lista1=[]
+# lista2=[]
+# i=0
+# while i<10:
+#     x=input("Podaj liczbe "+str(i+1)+" : \n")
+#     i+=1
+#     lista1.append(x)
+#
+# print(lista1)
+# for i in range(0,len(lista1),1):
+#     if int(float(lista1[i]))==float(lista1[i]):
+#         lista2.append(int(float(lista1[i])))
+#
+# print(lista2)
+# zad9
+# lista=[1,2,3,4,5,6]
+# for i in lista:
+#     if i==1 or i==6:
+#         print("O"*6)
+#     else:
+#         print("O    O")
 
 
 
