@@ -70,6 +70,13 @@
 #         print("O"*6)
 #     else:
 #         print("O    O")
+# zad10
+# x=input("Podaj liczbe: \n")
+# try:
+#     float(x)/float(x)
+#     print("to liczba")
+# except ValueError:
+#     print("to nie liczba")
 
 
 
