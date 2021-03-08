@@ -23,7 +23,7 @@
 # zad4
 # liczba=input("Podaj liczbe")
 # liczba=int(liczba)
-# liczba*=liczba
+# liczba**=liczba
 # print(liczba)
 # zad5
 # import sys as system
